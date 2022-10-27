@@ -21,7 +21,7 @@ background: linear-gradient(to left top, rgba(255,255,255, 0.8), rgba(255,255,25
     padding: 2rem; 
     justify-content: space-between;
     /* bos shadow property to make the card pop out */
-    box-shadow: 6px 6px 20px rgba(122, 122, 122, 0.2); */
+    box-shadow: 6px 6px 20px rgba(122, 122, 122, 0.2); 
 }
 
 .progress {
